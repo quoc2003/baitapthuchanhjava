@@ -1,21 +1,19 @@
 import java.util.Scanner;
 
 public class bai9 {
-    public static void main(String[] arg) {
-        int solanxuathien = 0;
+    public static void main(String[] args) {
         String chuoi;
-        char kytu;
+        char kyTu;
         Scanner sc = new Scanner(System.in);
-        do {
-            System.out.println("Nhap chuoi : ");
-            chuoi = sc.nextLine();
-        } while (chuoi.length() > 80);
-        System.out.println("Nhap ky tu can dem :");
-        kytu = sc.next().charAt(0);
+             
+        System.out.println("Nhap vao chuoi bat ki: ");
+        chuoi = sc.nextLine();
+             
+        System.out.println("Cac ky tu co trong chuoi: ");
         for (int i = 0; i < chuoi.length(); i++) {
-            if (kytu == chuoi.charAt(i))
-                solanxuathien++;
+            kyTu = chuoi.charAt(i);
+                 
+            System.out.println(kyTu);
         }
-        System.out.println("So lan xuat hien ky tu " + kytu + " trong chuoi " + chuoi + "la : " + solanxuathien);
     }
 }
