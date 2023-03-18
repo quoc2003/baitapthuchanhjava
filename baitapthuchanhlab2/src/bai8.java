@@ -9,8 +9,8 @@ public class bai8 {
         System.out.println("Nhập vào số các số nguyên có trong dãy: ");
         n = sc.nextInt();
 
-        for (int count = 1; count <=n; count++) {
-            System.out.println("Nhập số thứ " + count + ": ");
+        for (int i = 1; i <=n; i++) {
+            System.out.println("Nhập số thứ " + i + ": ");
             number = sc.nextInt();
             sum += number;
         }
