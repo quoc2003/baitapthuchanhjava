@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class hinhtron {
     public float bk;
-    public float pi = 3.14f;
+    final float pi = 3.14f;
     public float chuvi;
     public float dientich;
 
