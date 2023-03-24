@@ -37,8 +37,8 @@ public class hinhtrutron {
 
 }
 public static void main(String[] args) {
-    hinhtrutron ht2 = new hinhtrutron();
-    ht2.nhapthongtin();
-    ht2.hienthi();
+    hinhtrutron htt = new hinhtrutron();
+    htt.nhapthongtin();
+    htt.hienthi();
 }
 }
