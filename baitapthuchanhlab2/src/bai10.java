@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class bai10 {
     public static void main(String[] arg) {
         int solanxuathien = 0;
@@ -18,4 +20,3 @@ public class bai10 {
     }
 }
     
-}
