@@ -1,9 +1,9 @@
-package baitapthuchanhlab3.hinhhoc.src.main;
+package baitapthuchanhlab3.src.main;
 
-import baitapthuchanhlab3.hinhhoc.src.shapes.hinhchunhat;
-import baitapthuchanhlab3.hinhhoc.src.shapes.hinhtron;
-import baitapthuchanhlab3.hinhhoc.src.shapes.hinhtru;
-import baitapthuchanhlab3.hinhhoc.src.shapes.hinhvuong;
+import baitapthuchanhlab3.src.shapes.hinhchunhat;
+import baitapthuchanhlab3.src.shapes.hinhtru;
+import baitapthuchanhlab3.src.shapes.hinhvuong;
+import baitapthuchanhlab3.src.shapes.hinhtron;
 
 public class mainclass {
     public static void main(String[] args) {
