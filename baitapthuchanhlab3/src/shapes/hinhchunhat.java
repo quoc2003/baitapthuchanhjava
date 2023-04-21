@@ -27,6 +27,10 @@ public class hinhchunhat extends hinhhoc{
     public void tinhdientich(){
         dientich = dai * rong;
     }
+    public void setchieudai(int i) {
+    }
+    public void setchieurong(int i) {
+    }
 
 }
     

@@ -12,5 +12,7 @@ public class hinhvuong extends hinhchunhat{
         Scanner sc = new Scanner(System.in);
         dai = rong = sc.nextFloat();
     }
+    public void setcanh(int i) {
+    }
     
 }

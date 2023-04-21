@@ -21,5 +21,7 @@ public class hinhtru extends hinhtron{
         thetich = dientich * chieucao;
 
     }
+    public void setchieucao(int i) {
+    }
     
 }

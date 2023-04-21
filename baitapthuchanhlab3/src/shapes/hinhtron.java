@@ -21,5 +21,7 @@ public class hinhtron extends hinhhoc{
 public void tinhdientich(){
     dientich = PI * bankinh * bankinh;
 }
+public void setbankinh(int i) {
+}
     
 }
