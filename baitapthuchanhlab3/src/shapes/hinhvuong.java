@@ -1,4 +1,4 @@
-package baitapthuchanhlab3.src.shapes;
+package shapes;
 
 import java.util.Scanner;
 
