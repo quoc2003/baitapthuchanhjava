@@ -1,4 +1,4 @@
-package baithuchanhlab3.src.quanlidanhba;
+package quanlidanhba;
 
 import java.util.Scanner;
 

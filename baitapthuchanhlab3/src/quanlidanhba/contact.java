@@ -1,4 +1,4 @@
-package baithuchanhlab3.src.quanlidanhba;
+package quanlidanhba;
 
 public abstract class contact {
     abstract void insertContact(String name, String phone_number);
