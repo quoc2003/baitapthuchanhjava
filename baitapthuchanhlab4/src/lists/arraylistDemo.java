@@ -1,9 +1,9 @@
-package Lists;
+package baithuchanhlab4.src.Lists;
 
 import java.util.ArrayList;
 import java.util.Scanner;
 
-import std.Student;
+import baithuchanhlab4.src.std.Student;
 
 public class ArrayListDemo {
 

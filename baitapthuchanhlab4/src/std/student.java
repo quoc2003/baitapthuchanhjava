@@ -59,6 +59,8 @@ public class Student {
             }
         }
     }
+
+    /////////////////////////// Set//////////////////////////
     public void inputData(Set<Student> StudentList) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Nhap ten : ");
@@ -112,3 +114,4 @@ public class Student {
             }
         }
     }
+}

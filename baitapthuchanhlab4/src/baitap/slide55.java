@@ -1,5 +1,5 @@
-import java.util.HashSet;
-import java.util.Scanner;
+package baitapthuchanhlab4.src.baitap;
+
 public class slide55 {
     public static void main(String[] args) {
         String name;
@@ -10,13 +10,12 @@ public class slide55 {
         hashSet.add("Tuan");
         hashSet.add("Trung");
         hashSet.add("Vu");
-        //hien thi cac phan tu trong hashSet
+
         System.out.println("Cac phan tu trong hashSet : ");
         System.out.println(hashSet);
         System.out.println("Nhap phan tu can xoa");
         name = sc.nextLine();
-        // neu phan tu can xoa co ton tai hashSet thi se thong bao xoa thanh cong
-        // va hien thi cac phan tu con lai nguoc lai thong bao xoa khong thanh cong
+        
         if(hashSet.contains(name)) {
             hashSet.remove(name);
             System.out.println("xoa thanh cong!");
