@@ -1,4 +1,4 @@
-package baithuchanhlab4.src.baitap;
+package baitap;
 
 import java.util.Map;
 import java.util.Scanner;

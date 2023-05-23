@@ -1,4 +1,4 @@
-package baithuchanhlab4.src.baitap;
+package baitap;
 
 import java.util.LinkedHashMap;
 import java.util.Map;

@@ -1,4 +1,4 @@
-package baithuchanhlab4.src.baitap;
+package baitap;
 import java.util.ArrayList;
 import java.util.Scanner;
 public class slide22 {

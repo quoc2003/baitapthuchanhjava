@@ -1,4 +1,4 @@
-package baithuchanhlab4.src.baitap;
+package baitap;
 //lấy dữ liệu value trong hashmap khi biết key
 
 import java.util.HashMap;

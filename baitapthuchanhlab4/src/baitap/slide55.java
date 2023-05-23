@@ -1,4 +1,7 @@
-package baitapthuchanhlab4.src.baitap;
+package baitap;
+
+import java.util.HashSet;
+import java.util.Scanner;
 
 public class slide55 {
     public static void main(String[] args) {
